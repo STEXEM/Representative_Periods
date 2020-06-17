@@ -1,6 +1,6 @@
 # Representative_Periods
 
-1. Open the project Spain.gpr
+1. Open the project StorageInvestment.gpr
 2. From the project open the Master_spain.gams
 3. In the parameter comand line enter user1=Spain_data
 4. Run
